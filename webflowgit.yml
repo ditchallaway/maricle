@@ -1,0 +1,6 @@
+site: false
+# pages: false
+# OR
+# pages:
+#   ignore:
+#   - /posts/**
