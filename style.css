@@ -2571,6 +2571,8 @@ textarea.w-select {
 .rl-button {
   color: #fff;
   text-align: center;
+  white-space: nowrap;
+  word-break: keep-all;
   background-color: #216185;
   border: 1px solid #000;
   padding: 0.75rem 1.5rem;
